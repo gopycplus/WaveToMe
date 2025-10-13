@@ -298,7 +298,7 @@ action_frame.grid_columnconfigure(0, weight=1)
 action_frame.grid_columnconfigure(1, weight=1)
 
 # --------------------------------------------------------------------------------------
-# Google TTS Engine Setup
+# Google TTS Engine Setup (need to change that)
 # -------------------------------------------------------------------------------------
 pygame.mixer.init()
 
