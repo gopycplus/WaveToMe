@@ -200,8 +200,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👥 Authors
 
 **Shavkatjon** - [@shavkatjon_kodirov](https://t.me/shavkatjon_kodirov) - s.qodirov2026@tashkentps.uz
+
 **Abbos** - [@avijohn](https://t.me/avijohn) - a.vahobboyev2026@tashkentps.uz
+
 **Bunyodbek** - [@recombobulation](https://t.me/recombobulation) - b.yoldoshboyev2026@tashkentps.uz
+
 
 Project Link: [https://github.com/gopycplus/wavetome](https://github.com/gopycplus/wavetome)
 
